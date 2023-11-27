@@ -79,7 +79,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Kotlin][Kotlin Badge]][Kotlin-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -201,5 +201,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Kotlin Badge]: 
+[Kotlin Badge]: https://github.com/C0rp0r4l/CS230/blob/Docs/kotlin-logo.svg
 [Kotlin-url]: https://developer.android.com/kotlin
