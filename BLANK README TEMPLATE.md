@@ -105,10 +105,15 @@ _For more examples, please refer to the [Documentation](https://github.com/C0rp0
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Full multi-floor structure tracking and navigation
+- [ ] Building to building navigation
+- [ ] Alpha tester trial phase
+    - [ ] First Feedback Survey and bug reports
+- [ ] Beta tester trial phase
+    - [ ] Second Feedback Survey and bug reports
+- [ ] Final release campus trial
+    - [ ] Ongoing feedback and bugfixing phase
+
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
