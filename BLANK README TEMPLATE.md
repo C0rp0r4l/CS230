@@ -94,8 +94,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+U-maps is intended to installed in a mobile device and once connected to a local school network will provide navigational information to the user dynamically in real time to facilitate easy naviagtion of their respective campus.
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
