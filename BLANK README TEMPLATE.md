@@ -155,9 +155,9 @@ Project Link: [https://github.com/C0rp0r4l/CS230](https://github.com/C0rp0r4l/CS
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Founder](Joshua Charlesworth)
+* [Founder](Fernando Herrera)
+* [Founder](Ingrid Paixao)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
