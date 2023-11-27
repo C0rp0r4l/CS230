@@ -69,9 +69,7 @@ We hope to have an open collaborative environment where users can submit bug fix
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The U-Maps project is designed to be an open source software intended to help students navigate campus while keeping them up to date on any changes in class locations or campaus closures or emergencies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
