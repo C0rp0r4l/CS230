@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/C0rp0r4l/CS230">
+  <a href="https://github.com/C0rp0r4l/CS230/blob/main/U-Maps.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -194,5 +194,5 @@ Project Link: [https://github.com/C0rp0r4l/CS230](https://github.com/C0rp0r4l/CS
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Kotlin Badge]: https://github.com/C0rp0r4l/CS230/blob/Docs/kotlin-logo.svg
+[Kotlin Badge]: https://github.com/C0rp0r4l/CS230/blob/main/kotlin-logo.svg
 [Kotlin-url]: https://developer.android.com/kotlin
